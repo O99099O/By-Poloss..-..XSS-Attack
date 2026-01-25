@@ -1,4 +1,4 @@
-# Core Dependenc
+# Core Dependen
 requests>=2.28.0
 beautifulsoup4>=4.11.0
 colorama>=0.4.6
